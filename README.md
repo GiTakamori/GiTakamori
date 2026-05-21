@@ -1,16 +1,14 @@
-## Hi there 👋
+<h2 align="center">💻 Sobre mim</h2>
 
-<!--
-**GiTakamori/GiTakamori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Sou apaixonada por Front-End e adoro explorar novas tecnologias para aprimorar minhas habilidades e criar interfaces cada vez mais bonitas, modernas e funcionais.  
+Estou sempre buscando aprender coisas novas e evoluir como desenvolvedora através de projetos, experiências e criatividade.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">🚀 Skills</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
